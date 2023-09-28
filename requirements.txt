@@ -1,0 +1,6 @@
+pip==23.1.2
+setuptools==68.0.0
+wheel==0.40.0
+pygame>=2.5.0
+build>= 0.10.0
+colorama>=0.4.6

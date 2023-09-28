@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/common.py
+src/main.py
+src/player.py
+src/spritesheet.py
+src/sb_pacman.egg-info/PKG-INFO
+src/sb_pacman.egg-info/SOURCES.txt
+src/sb_pacman.egg-info/dependency_links.txt
+src/sb_pacman.egg-info/entry_points.txt
+src/sb_pacman.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+pacman = main:main
